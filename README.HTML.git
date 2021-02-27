@@ -2,40 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>Guy Irampaye</h1>
-<p>My school email is guytirampaye@lewisu.edu.</p>
-<h2>Photo</h2>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>Reduced size</p>
-
-<img src="img_carphoto.jpg" width="500" height="600">
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<img src="img_andersongardens.jpg" width="300" height="300">
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 aside {
   width: 50%;
